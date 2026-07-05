@@ -69,8 +69,8 @@ body {
   background-color: var(--bg-color);
   background-image: var(--bg-gradient);
   color: var(--text-primary);
-  min-height: 100vh;
-  min-height: -webkit-fill-available;
+  height: 100vh;
+  height: -webkit-fill-available;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -873,7 +873,6 @@ html {
     margin: 0 auto;
     border-left: 1px solid var(--card-border);
     border-right: 1px solid var(--card-border);
-    min-height: calc(100vh - 150px);
   }
   
   .theme-contrast .app-content {
