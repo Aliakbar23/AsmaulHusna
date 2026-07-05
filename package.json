@@ -1,0 +1,14 @@
+{
+  "name": "asmaul-husna-pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web App Asmaul Husna dengan Aksesibilitas Teks Besar",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
