@@ -1,4 +1,4 @@
-const CACHE_NAME = 'asmaul-husna-v2';
+const CACHE_NAME = 'asmaul-husna-v3';
 const ASSETS = [
   './',
   './index.html',
